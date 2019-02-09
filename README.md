@@ -4,23 +4,14 @@
 
 ## 行程安排
 
-|                 |             Time |     Kick off   | 
-
-|---------  |-------------|------------|
-
-|Morning   |10:30-10:30|Warmup/ Welcome|
-
-|Morning   |10:30-11:20|Culture|
-
-|Morning   |11:20-12:20|My TW Journey|
-
-|Afternoon|14:30-15:30|Agile Methodology or Agile Responsibilities|
-
-|Afternoon|15:40-17:00|Feedback|
-
-|Afternoon|17:00-17:40|Retro|
-
-
+|  | Time | Kick off |
+| ------ | ------ | ------ |
+| Morning | 10:30-10:30 | Warmup/ Welcome |
+| Morning | 10:30-11:20 | Culture |
+| Morning | 11:20-12:20 | My TW Journey |
+| Afternoon | 14:30-15:30 | Agile Methodology or Agile Responsibilities |
+| Afternoon | 15:40-17:00 | Feedback |
+| Afternoon | 17:00-17:40 | Retro |
 
 ## 培训总结
 
